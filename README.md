@@ -1,11 +1,5 @@
 # README
-upload repo
-1 complete Ruby on Rails developer by budz
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+budz journey to be come ruby on rails programer
 
 * Ruby version
 
