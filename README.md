@@ -1,5 +1,5 @@
 # README
-budz journey to be come ruby on rails programer
+budz journey to be come ruby on rails developer
 
 * Ruby version
 
